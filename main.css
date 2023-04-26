@@ -1,0 +1,76 @@
+/* header */
+.header {
+    width: 100%;
+    height: 130pt;
+    background-color: orange;
+    margin:-6pt 0pt 0pt -6pt;
+    padding:0pt 6pt 6pt 6pt ;
+    display: flex;
+    
+    
+}
+.fb-icon{
+    margin-left: 145px;
+    margin-top: .5rem;
+}
+.ig-icon{
+    margin-left: 15px;
+    margin-top: .5rem;
+}
+.pn-icon{
+    margin-left: 15px;
+    margin-top: .5rem;
+}
+.img{
+    max-width: 150px;
+    height: auto;
+    margin-left: 300pt;
+    margin-top: 6pt;
+}
+.gm-icon{
+    margin-left:345pt ;
+    margin-top: .5rem;
+}
+.tw-icon{
+    margin-top: .5rem;
+    margin-left: 15pt;
+}
+/* gioi thieu ban than */
+.me {
+    background-image: url(https://scx2.b-cdn.net/gfx/news/2019/galaxy.jpg);
+    /* background-color: #fff; */
+    width: 100%;
+    height: 400pt;
+    margin:-4pt 0pt 0pt -6pt;
+    padding:0pt 6pt 6pt 6pt ;
+    display: flex; 
+}
+.img-1{
+    margin-top: .5rem;
+    width: 200px;
+    height: 200px;
+}
+.me-1{
+    margin-left: 1.5rem;
+    font-size: 15pt;
+    font-family: sans-serif;
+    color: aquamarine;
+}
+/* .img-2{
+    margin-top: .5rem;
+    width: 200px;
+    height: 200px;
+    margin-left: 500pt;
+}
+.me-2{
+    margin-left: 1.5rem;
+    font-size: 15pt;
+    font-family: sans-serif;
+    color: aquamarine; */
+/* footer */
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(174, 233, 122);
+    color: white;
+}
